@@ -32,7 +32,7 @@ This project aims to detect shoplifting activities in a retail environment by an
   2. SAM was then applied to segment only the person within the bounding box provided by YOLO-NAS.
   3. The segmented mask helped focus on the action within the bounding box to better assess the behavior (shoplifting vs. non-shoplifting).
 
-![Segmented Shoplifting Example](path_to_your_segmented_image.png)
+![Segmented Shoplifting Example](image.png)
 
 *The image above shows an example of the model detecting shoplifting and using SAM to segment the person involved.*
 
